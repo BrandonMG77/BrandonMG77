@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrandonMG77 a beginner in this software development world! 
+- 👀 I’m interested in in web and app development
+- 🌱 I’m currently learning ReactJS and React native
+- 💞️ I’m looking to collaborate as junior developer or assistant developer
