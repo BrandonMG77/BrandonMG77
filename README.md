@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BrandonMG77 a beginner in this software development world! 
-- 👀 I’m interested in in web and app development
-- 🌱 I’m currently learning ReactJS and React native
-- 💞️ I’m looking to collaborate as junior developer or assistant developer
+- 👀 I’m interested in in web and app development. I know javascript, React, React Native and PHP.
+- 🌱 I would like in the future to learn Python and retake my old java projects.
+- 💞️ I’m looking to collaborate as junior developer or assistant developer to gain experience as a team member!
